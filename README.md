@@ -75,3 +75,4 @@ This project highlights my ability to handle Legacy-to-Modern transitions, a com
 ## 📩 Contact<br>
 Rafael Arcanjo<br>
 Backend Software Engineer<br>
+[LinkedIn](https://www.linkedin.com/in/rafael-arcanjo-dev) | [GitHub](https://github.com/rafaelarcanjodev)
